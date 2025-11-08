@@ -1,4 +1,4 @@
-#  🎵 Music Trends and Popularity Analysis using Excel
+#  🎵 Music Trends and Popularity Analysis using Google Sheet
 
 
 ## 📘 Overview
