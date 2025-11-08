@@ -74,16 +74,6 @@ The goal is to demonstrate advanced Excel data analysis skills through pivot tab
 
 ---
 
-## 📂 File Information
-
-- Workbook Name: Music_Analysis_Dashboard.xlsx
-
-- Repository Name: music-analysis-excel
-
-- Language/Tool: Excel / Google Sheets
-
----
-
 ## 🚀 How to Use
 
 - Download or open Music_Analysis_Dashboard.xlsx.
