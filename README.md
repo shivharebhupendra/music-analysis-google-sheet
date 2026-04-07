@@ -102,8 +102,6 @@ The goal is to demonstrate advanced Excel data analysis skills through pivot tab
 
 - Bhupendra Shivhare
 
-- 📧 [Linkedin](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b/)
-
 - 🎯 Passionate about Data Analysis, Business Intelligence, and Visualization
 
 ---
